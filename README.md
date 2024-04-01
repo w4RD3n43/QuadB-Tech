@@ -7,7 +7,8 @@ Sure, here's a description for a todo React app:
 Title: Simple Todo List
 
 Description:
-Create a simple todo list application using React. The app should allow users to add, delete, and mark todo items as completed. It should also include functionality to filter todos based on their completion status (all, completed, active). Additionally, the app should persist todo items in local storage so that they are not lost when the page is refreshed.
+Develop a basic To-Do application using ReactJS that allows users to add, view, and delete tasks. This application should showcase your understanding of HTML, CSS, JavaScript, React components, hooks, and state management using Redux.
+
 
 Key Features:
 

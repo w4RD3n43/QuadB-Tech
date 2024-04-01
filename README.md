@@ -1,8 +1,5 @@
 
 
-LIVE LINK - https://to-do-react-app-git-main-vitthal-hangarges-projects.vercel.app/
-
-
 
 
 Sure, here's a description for a todo React app:
